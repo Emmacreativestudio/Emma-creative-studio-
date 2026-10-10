@@ -19,3 +19,4 @@
 <section class="section contact" id="contact"><div class="contact-box"><div><h2>Have a project?</h2><p>Let's turn your footage into content people want to watch.</p></div><a class="btn" href="https://www.tiktok.com/@emmacreativestudio001" target="_blank">Message me</a></div></section>
 <footer><div>© 2026 Emma Creative Studio</div><div>@emmacreativestudio001</div></footer>
 </body></html>
+<div class="video-card"><video controls playsinline preload="metadata"><source src="gym-edit.mp4" type="video/mp4"></video><div class="video-info"><small>PROJECT 04 • FITNESS</small><h3>Gym Edit</h3><p>A high-energy fitness edit showcasing movement, rhythm, transitions and cinematic visuals.</p></div></div>
